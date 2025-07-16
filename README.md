@@ -40,3 +40,13 @@ This project was conducted using Google Colab, an online platform for Jupyter no
 2. Prepare final pdf report with publication table, importale table and python code snippet.
 
 Note:  Raw data folder contains messy dataset to be analysed and also have data description file. The solutions folder contains python code and pdf report that answers all the three questions.
+
+---
+## ✍️ Author
+
+**Pooja Pandit**  
+Master’s Student in Information Science (Machine Learning)  
+The University of Arizona  
+
+[![GitHub](https://img.shields.io/badge/GitHub-panditpooja-black?logo=github)](https://github.com/panditpooja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pooja--pandit-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-pandit-177978135/)  
